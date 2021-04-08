@@ -1,0 +1,38 @@
+[{
+    "id": 1,
+    "modelo": "Jordan Retro 1 High x Travis Scott",
+    "talle": 8,
+    "precio":750,
+    "img": "https://media.revistagq.com/photos/5cd56198cb3e9713825f9978/master/w_1360,c_limit/travis-scott-air-jordan-1-brown-release-date-cd4487-100-pair.jpeg"
+}, {
+    "id":2 ,
+    "modelo":"Jordan Retro 4 Hot Punch",
+    "talle":8.5,
+    "precio":250,
+    "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/194/524/products/air-jordan-4-wmns-nrg-hot-punch-51-b218a0bd91b7a0555915562344546184-1024-1024.png"
+},{
+    "id":3 ,
+    "modelo":"Nike Uptempo Scottie Pippen" ,
+    "talle":8,
+    "precio": 220,
+    "img": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fnike-air-more-uptempo-white-black-414962-105-release-date-info-4.jpg?w=1600&cbr=1&q=90&fit=max"
+},{
+    "id":4,
+    "modelo":"Nike Jordan Retro 1 Chicago",
+    "talle":10 ,
+    "precio": 200,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_814528-MLA43799095340_102020-O.jpg"
+},{
+    "id":5 ,
+    "modelo":"Nike Air Force 1 x Travis Scott" ,
+    "talle": 8,
+    "precio": 450,
+    "img": "https://i1.wp.com/www.slang.fm/wp-content/uploads/2019/10/TSCN.jpg?resize=1280%2C720&ssl=1"
+},{
+    "id":6,
+    "modelo":"Nike Air Max 1 Lemonade" ,
+    "talle":8.5 ,
+    "precio": 250,
+    "img": "https://images.wave.fr/images//nike-air-max-1-lemonade-cj0609-700-1-1000x750.jpg"
+}
+]
