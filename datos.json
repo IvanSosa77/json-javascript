@@ -46,5 +46,11 @@
     "talle":8.5 ,
     "precio": 250,
     "img":"https://mysneakerocean.com/wp-content/uploads/2020/09/Nike-Air-Max-1-Limeade-CJ0609-300-Fecha-de-Lanzamiento.jpg"
+},{
+    "id":9,
+    "modelo":"Nike Air Skeleton" ,
+    "talle":8.5 ,
+    "precio": 200,
+    "img":"https://www.zapatillasysneakers.com/sites/default/files/static/images/news/zapatillas_nike_air_force_1_skeleton_orange.png"
 }
 ]
