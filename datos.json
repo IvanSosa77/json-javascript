@@ -34,5 +34,17 @@
     "talle":8.5 ,
     "precio": 250,
     "img": "https://images.wave.fr/images//nike-air-max-1-lemonade-cj0609-700-1-1000x750.jpg"
+},{
+    "id":7,
+    "modelo":"Nike Air Max 1 Strawberry Lemonade" ,
+    "talle":8.5 ,
+    "precio": 250,
+    "img": "https://images.solecollector.com/complex/images/c_crop,h_1125,w_1999,x_1,y_617/c_fill,dpr_2.0,f_auto,fl_lossy,q_auto,w_680/ppgpg0novkzriyqgjupc/nike-air-max-1-strawberry-lemonade-cj0609-600-pair"
+},{
+    "id":8,
+    "modelo":"Nike Air Max 1 Limeade" ,
+    "talle":8.5 ,
+    "precio": 250,
+    "img":"https://mysneakerocean.com/wp-content/uploads/2020/09/Nike-Air-Max-1-Limeade-CJ0609-300-Fecha-de-Lanzamiento.jpg"
 }
 ]
